@@ -1,0 +1,6 @@
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\bin\Debug\firstRepository.exe
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\bin\Debug\firstRepository.pdb
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\obj\Debug\firstRepository.csproj.AssemblyReference.cache
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\obj\Debug\firstRepository.csproj.CoreCompileInputs.cache
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\obj\Debug\firstRepository.exe
+C:\Users\Pc\RiderProjects\firstRepository\firstRepository\obj\Debug\firstRepository.pdb

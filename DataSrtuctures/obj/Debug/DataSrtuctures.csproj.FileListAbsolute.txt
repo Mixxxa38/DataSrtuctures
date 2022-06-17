@@ -1,0 +1,6 @@
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\bin\Debug\DataSrtuctures.exe
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\bin\Debug\DataSrtuctures.pdb
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\obj\Debug\DataSrtuctures.csproj.AssemblyReference.cache
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\obj\Debug\DataSrtuctures.csproj.CoreCompileInputs.cache
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\obj\Debug\DataSrtuctures.exe
+C:\Users\Pc\RiderProjects\firstRepository\DataSrtuctures\obj\Debug\DataSrtuctures.pdb
